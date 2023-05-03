@@ -9,5 +9,6 @@ Screenshot of Calculator GUI:
 
 Working of Calculator:
 
-https://user-images.githubusercontent.com/71519458/235915071-fa711e73-2b83-4ff6-98e5-5311392abeaf.mp4
+
+https://user-images.githubusercontent.com/71519458/235915404-67add536-3057-4bfb-8627-325a7feeecdd.mp4
 
